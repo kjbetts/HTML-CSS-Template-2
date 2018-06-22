@@ -1,0 +1,190 @@
+@import url('https://fonts.googleapis.com/css?family=Share+Tech');
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+
+@media screen and (min-width: 320px) {
+  body{
+    background-color: black;
+    color: white;
+  }
+
+  p{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 15px;
+  }
+
+  h1{
+    font-family: 'Share Tech', sans-serif;
+    text-align: center;
+  }
+
+  a{
+    font-family: 'Share Tech', sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    text-decoration: none;
+    color: white;
+    padding-left: 15px;
+  }
+
+  a:hover {
+    color: black;
+  }
+
+  .navbar{
+    background-color: rgb(62, 108, 134);
+    text-align: center;
+  }
+
+  .content1{
+    display: block;
+    float: none;
+    margin: 0 auto;
+    width: 95%
+  }
+
+  .content2{
+    display: block;
+    float: none;
+    margin: 0 auto;
+    width: 95%
+  }
+  .texttArea6 p{
+    padding-bottom: 55px;
+  }
+
+  .footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(62, 108, 134);
+    color: white;
+    text-align: center;
+  }
+
+}
+
+@media screen and (min-width: 768px) {
+  body{
+    background-color: black;
+    color: white;
+  }
+
+  p{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 15px;
+  }
+
+  h1{
+    font-family: 'Share Tech', sans-serif;
+    text-align: center;
+  }
+
+  a{
+    font-family: 'Share Tech', sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    text-decoration: none;
+    color: white;
+    padding-left: 15px;
+  }
+
+  a:hover {
+    color: black;
+  }
+
+  .navbar{
+    background-color: rgb(62, 108, 134);
+    text-align: center;
+  }
+
+  .content1{
+    display: block;
+    float: none;
+    margin: 0 auto;
+    width: 95%
+  }
+
+  .content2{
+    display: block;
+    float: none;
+    margin: 0 auto;
+    width: 95%
+  }
+
+  .texttArea6 p{
+    padding-bottom: 45px;
+  }
+
+ .footer{
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: rgb(62, 108, 134);
+   color: white;
+   text-align: center;
+  }
+
+}
+
+@media screen and (min-width:1024px){
+  body{
+    background-color: black;
+    color: white;
+  }
+
+  p{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 15px;
+  }
+
+  h1{
+    font-family: 'Share Tech', sans-serif;
+  }
+
+  a{
+    font-family: 'Share Tech', sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    text-decoration: none;
+    color: white;
+    padding-left: 15px;
+  }
+
+  a:hover {
+    color: black;
+  }
+
+  .navbar{
+    background-color: rgb(62, 108, 134);
+    text-align: center;
+  }
+
+  .content1{
+    display: block;
+    float: left;
+    width: 50%;
+    height: 50%;
+    margin: -1px;
+  }
+
+  .content2{
+    display: block;
+    float: right;
+    width: 50%;
+    height: 50%;
+    margin: -3px;
+  }
+
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(62, 108, 134);
+    color: white;
+    text-align: center;
+  }
+
+}
